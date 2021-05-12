@@ -13,9 +13,6 @@
 This bot is useful for servers which have been raided by acccounts
 which start with the same name from raids. This software should only 
 be used to clean up raids which prune can not do itself.
-
-If you have any issues contact me on discord:
-Reecepbcups#3370
 """
 
 import time
